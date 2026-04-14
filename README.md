@@ -1,7 +1,7 @@
 # 🛡️ ScreenShield AI
 
 <p align="center">
-  <img src="./assets/screenshield-logo.svg" width="120" height="120" alt="ScreenShield AI Logo" />
+  <img src="./markmap.svg" width="120" height="120" alt="ScreenShield AI Logo" />
 </p>
 
 ## 📦 About This Repository
