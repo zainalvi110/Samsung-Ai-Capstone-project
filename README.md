@@ -33,7 +33,7 @@ This repository contains the **ScreenShield AI** application — a React-based s
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/screenshield-ai.git
+   git clone https://github.com/zainalvi110/Samsung-Ai-Capstone-project.git
    cd screenshield-ai
 2. **Extract the application**
    ```bash
